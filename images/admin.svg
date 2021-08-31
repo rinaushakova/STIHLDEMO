@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="15" viewBox="0 0 30 15">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_3" data-name="Прямоугольник 3" width="30" height="10" fill="#fff" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_139" data-name="Сгруппировать 139" transform="translate(-1278 -16)">
+    <g id="Группа_масок_1" data-name="Группа масок 1" transform="translate(1278 21)" clip-path="url(#clip-path)">
+      <g id="Эллипс_2" data-name="Эллипс 2" transform="translate(2 5)" fill="none" stroke="#fff" stroke-width="2">
+        <ellipse cx="6.5" cy="5" rx="6.5" ry="5" stroke="none"/>
+        <ellipse cx="6.5" cy="5" rx="5.5" ry="4" fill="none"/>
+      </g>
+    </g>
+    <g id="Эллипс_3" data-name="Эллипс 3" transform="translate(1282 16)" fill="none" stroke="#fff" stroke-width="2">
+      <circle cx="4.5" cy="4.5" r="4.5" stroke="none"/>
+      <circle cx="4.5" cy="4.5" r="3.5" fill="none"/>
+    </g>
+  </g>
+</svg>

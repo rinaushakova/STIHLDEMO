@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78.296" height="70.869" viewBox="0 0 78.296 70.869">
+  <defs>
+    <filter id="Icon_awesome-vk" x="0" y="0" width="78.296" height="70.869" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.4"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Icon_awesome-vk)">
+    <path id="Icon_awesome-vk-2" data-name="Icon awesome-vk" d="M19.187,7.487c.126-.425,0-.737-.6-.737h-2a.859.859,0,0,0-.87.567,16.763,16.763,0,0,1-2.459,4.093c-.465.465-.679.615-.934.615-.126,0-.319-.149-.319-.574V7.487c0-.509-.143-.737-.564-.737H8.291a.483.483,0,0,0-.509.459c0,.482.72.594.795,1.953V12.11c0,.645-.115.764-.37.764-.679,0-2.33-2.493-3.308-5.346-.2-.554-.391-.778-.9-.778h-2c-.571,0-.686.268-.686.567,0,.53.679,3.162,3.162,6.64a7.8,7.8,0,0,0,6.1,3.661c1.274,0,1.43-.285,1.43-.778,0-2.269-.115-2.483.523-2.483.3,0,.8.149,1.994,1.294,1.359,1.359,1.583,1.967,2.344,1.967h2c.571,0,.859-.285.693-.849-.38-1.185-2.952-3.624-3.067-3.787-.3-.38-.211-.55,0-.89,0,0,2.446-3.441,2.7-4.606Z" transform="translate(28.69 23.25)" fill="#fff"/>
+  </g>
+</svg>
